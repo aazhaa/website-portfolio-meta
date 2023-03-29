@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <p>Homepage</p>
+      <p>Testing another branch on git-desktop-application.</p>
     </div>
   );
 }
